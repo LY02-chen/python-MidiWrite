@@ -1,6 +1,6 @@
 # python-music
 ## 前置作業
-在Anaconda Prompt中分別輸入:\
+在Anaconda Prompt中分別輸入:
 - pip install mido
 - pip install pygame
 
